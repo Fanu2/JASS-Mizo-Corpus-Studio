@@ -1,3 +1,5 @@
+<img width="1866" height="972" alt="image" src="https://github.com/user-attachments/assets/4563b464-3869-475e-b8b8-a2eb730efc2d" />
+
 # JASS Mizo Corpus Studio
 
 **Version:** 2.1  
